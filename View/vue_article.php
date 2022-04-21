@@ -11,15 +11,15 @@
 <body>
 <div class="container">
     <br>
-    <h1>Ajouter un utilisateurs</h1>
+    <h1>Ajouter un Article</h1>
     <br>
     <form method="post" action="">
       <div class="mb-3">
-      <label class="form-label">Non Article</label>
+      <label class="form-label">Nom Article</label>
         <input type="text" class="form-control" name="nom_article">
       </div>
       <div>
-      <label class="form-label">Prix Aticle</label>
+      <label class="form-label">Prix Article</label>
         <input type="text" class="form-control" name="prix_article">
       </div>
       <div>
